@@ -30,8 +30,8 @@
 <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" target="_blank">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="xd" width="40" height="40"/> 
