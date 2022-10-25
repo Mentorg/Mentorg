@@ -7,7 +7,7 @@ I am a web developer with a focus on the LAMP stack, but also exploring other te
 <a href="https://www.linkedin.com/in/mentorg/" target="blank">
   <img src="https://github.com/ionic-team/ionicons/blob/main/src/svg/logo-linkedin.svg" alt="" height="30" width="30" />
 </a>
-<a href="https://www.linkedin.com/in/mentorg/" target="blank" mailto="mentorg@hotmail.com">
+<a href="mailto:emersonpess011108@gmail.com?" target="blank">
   <img src="https://github.com/ionic-team/ionicons/blob/main/src/svg/mail-open-sharp.svg" alt="" height="30" width="30" />
 </a>
 
