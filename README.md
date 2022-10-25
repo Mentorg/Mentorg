@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/D4E16AQFCOSeUdyIcVw/profile-displaybackgroundimage-shrink_350_1400/0/1666660211262?e=1672272000&v=beta&t=ZcCDWNI4kBTm_loT9_3cHoW8_2trB28op1TqvCS6mm4" alt="Profile banner"/>
+
 # Hi there 👋
 I am a web developer with a focus on the LAMP stack, but also exploring other technologies and tools that catch my interest! In addition to my technical skills I'm looking forward to further develop my personal skills which I believe to be critical part of my career success.
 
