@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/18701723/201604177-1b95ac6e-2197-472c-bc06-7210d16c9361.png)
+![banner_github](https://user-images.githubusercontent.com/18701723/205081785-0a61992f-cea1-4f5f-9090-5c717dea2229.png)
 
 # Hi there 👋
 I am a web developer with a focus on the LAMP stack, but also exploring other technologies and tools that catch my interest! In addition to my technical skills I'm looking forward to further develop my personal skills which I believe to be critical part of my career success.
